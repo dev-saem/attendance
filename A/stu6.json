@@ -1,0 +1,5 @@
+params6=[{"seatNum":11, "name":"Kimjiho", "attend":0, "attendTime":"12:01:15", "runOut":0, "runIn":"0"}
+    ,{"seatNum":19, "name":"obama", "attend":0, "attendTime":"0", "runOut":0, "runIn":"0"}
+    ,{"seatNum":23, "name":"Yoonsaemi", "attend":0, "attendTime":"0", "runOut":0, "runIn":"0"}
+    ,{"seatNum":4, "name":"biden", "attend":0, "attendTime":"0", "runOut":0, "runIn":"0"}
+    ,{"seatNum":8, "name":"Kimnuri", "attend":0, "attendTime":"0", "runOut":0, "runIn":"0"}]
